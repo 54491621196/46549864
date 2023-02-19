@@ -1,0 +1,13 @@
+{
+   "pack":{
+      "pack_format":3,
+      "description":"Musica per Dischi"
+   },
+   "language":{
+      "en_mymusic":{
+         "name":"Musica",
+         "region":"English",
+         "bidirectional":false
+      }
+   }
+}
